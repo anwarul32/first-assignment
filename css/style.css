@@ -104,6 +104,7 @@ h2{
 .knowing-area img {
     float: left;
     width: 20%;
+    margin-left: 300px;
     
 }
 .know button {
